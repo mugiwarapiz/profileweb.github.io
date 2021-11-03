@@ -1,0 +1,9 @@
+@media print {
+  #printPageButton {
+    display: none;
+  }
+
+}
+@page {
+	size: A4 portrait; /* can also use 'landscape' for orientation */
+}
